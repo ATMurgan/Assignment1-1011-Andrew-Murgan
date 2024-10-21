@@ -1,0 +1,69 @@
+
+.mainPane {
+    -fx-background-color: #1f1b1b;
+}
+
+/* Title style */
+#title {
+    -fx-font-family: "Comic Sans MS";
+    -fx-text-fill: #8b26e3;
+    -fx-font-size: 30px;
+    -fx-padding: 10px;
+}
+
+/* TableView styles */
+.table-view {
+    -fx-background-color: #8b26e3;
+    -fx-border-color: #222223;
+    -fx-border-radius: 10px;
+}
+
+/* CheckBox styles */
+.check-box {
+    -fx-text-fill: #8b26e3;
+    -fx-font-size: 16px;
+    -fx-font-family: "Comic Sans MS";
+}
+
+.check-box:hover {
+    -fx-text-fill: #c031d0;
+}
+
+/* HBox styles */
+.hbox{
+    -fx-spacing: 20px;
+    -fx-background-color: #211e21;
+}
+
+.button{
+    -fx-text-fill: #8b26e3;
+    -fx-font-size: 16px;
+    -fx-font-family: "Comic Sans MS";
+    -fx-effect: dropshadow(gaussian, whitesmoke, 1, 0, 1, 1);
+}
+.bar-chart {
+    -fx-background-color: #1c1c1c;
+}
+.chart-plot-background {
+    -fx-background-color: #b470e8;
+}
+.bar {
+    -fx-bar-fill: #8b26e3;
+}
+.axis {
+    -fx-text-fill: white;
+}
+.axis-label {
+    -fx-text-fill: #ecebe6;
+    -fx-font-size: 24px;
+    -fx-font-family: "Comic Sans MS";
+}
+.label{
+    -fx-font-size: 15px;
+    -fx-font-family: "Comic Sans MS";
+}
+
+
+
+
+
